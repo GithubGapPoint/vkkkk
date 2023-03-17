@@ -1,0 +1,7 @@
+.clicker {
+    column-gap: 2rem;
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
